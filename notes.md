@@ -2,3 +2,4 @@
 2014-01-10T01:42:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2014-04-05T04:02:00 - Implementing approach from a new paper read last night (transformers)
 2014-05-08T18:23:00 - Late-night bugfix on financial RL environment (transformers)
+2014-05-15T08:36:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
