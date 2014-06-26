@@ -6,3 +6,4 @@
 2014-06-16T01:09:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2014-06-16T06:40:00 - Refactor for clarity, might break a few tests though (transformers)
 2014-06-26T07:42:00 - Late-night bugfix on financial RL environment (transformers)
+2014-06-26T03:28:00 - Implementing approach from a new paper read last night (transformers)
