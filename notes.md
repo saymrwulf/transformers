@@ -10,3 +10,4 @@
 2014-07-13T03:41:00 - Minor doc updates: linking to article on quantization (transformers)
 2014-07-29T06:46:00 - Late-night bugfix on financial RL environment (transformers)
 2014-07-29T00:28:00 - Late-night bugfix on financial RL environment (transformers)
+2014-07-29T19:47:00 - Minor doc updates: linking to article on quantization (transformers)
