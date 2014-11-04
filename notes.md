@@ -13,3 +13,4 @@
 2014-07-29T19:47:00 - Minor doc updates: linking to article on quantization (transformers)
 2014-08-30T00:27:00 - Minor doc updates: linking to article on quantization (transformers)
 2014-08-31T03:08:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
+2014-11-04T17:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
