@@ -16,3 +16,4 @@
 2014-11-04T17:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2014-11-04T04:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2014-12-23T21:25:00 - Minor doc updates: linking to article on quantization (transformers)
+2014-12-23T21:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
