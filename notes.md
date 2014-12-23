@@ -15,3 +15,4 @@
 2014-08-31T03:08:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2014-11-04T17:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2014-11-04T04:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
+2014-12-23T21:25:00 - Minor doc updates: linking to article on quantization (transformers)
