@@ -22,3 +22,4 @@
 2015-02-28T23:27:00 - Minor doc updates: linking to article on quantization (transformers)
 2015-03-08T21:34:00 - Late-night bugfix on financial RL environment (transformers)
 2015-03-08T07:36:00 - Implementing approach from a new paper read last night (transformers)
+2015-03-08T07:24:00 - Implementing approach from a new paper read last night (transformers)
