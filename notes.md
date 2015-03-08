@@ -20,3 +20,4 @@
 2014-12-23T03:18:00 - Refactor for clarity, might break a few tests though (transformers)
 2014-12-23T18:04:00 - Refactor for clarity, might break a few tests though (transformers)
 2015-02-28T23:27:00 - Minor doc updates: linking to article on quantization (transformers)
+2015-03-08T21:34:00 - Late-night bugfix on financial RL environment (transformers)
