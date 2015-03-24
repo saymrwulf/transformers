@@ -23,3 +23,4 @@
 2015-03-08T21:34:00 - Late-night bugfix on financial RL environment (transformers)
 2015-03-08T07:36:00 - Implementing approach from a new paper read last night (transformers)
 2015-03-08T07:24:00 - Implementing approach from a new paper read last night (transformers)
+2015-03-24T19:55:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
