@@ -30,3 +30,4 @@
 2015-06-03T21:18:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2015-07-31T22:51:00 - Implementing approach from a new paper read last night (transformers)
 2015-07-31T04:25:00 - Quick fix, referencing a known issue from the official repo (transformers)
+2015-07-31T07:10:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
