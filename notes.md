@@ -31,3 +31,4 @@
 2015-07-31T22:51:00 - Implementing approach from a new paper read last night (transformers)
 2015-07-31T04:25:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2015-07-31T07:10:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
+2015-08-13T08:11:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
