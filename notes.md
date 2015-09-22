@@ -35,3 +35,4 @@
 2015-08-21T18:23:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2015-08-21T19:36:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2015-08-21T22:12:00 - Minor doc updates: linking to article on quantization (transformers)
+2015-09-22T21:29:00 - Implementing approach from a new paper read last night (transformers)
