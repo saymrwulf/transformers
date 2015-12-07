@@ -41,3 +41,4 @@
 2015-10-26T23:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
 2015-10-26T17:46:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2015-10-26T05:47:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
+2015-12-07T05:41:00 - Late-night bugfix on financial RL environment (transformers)
