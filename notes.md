@@ -45,3 +45,4 @@
 2015-12-25T04:40:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2016-05-11T18:04:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
 2016-05-11T19:01:00 - Quick fix, referencing a known issue from the official repo (transformers)
+2016-05-11T02:53:00 - Late-night bugfix on financial RL environment (transformers)
