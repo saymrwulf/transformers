@@ -47,3 +47,4 @@
 2016-05-11T19:01:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2016-05-11T02:53:00 - Late-night bugfix on financial RL environment (transformers)
 2016-05-11T17:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
+2016-05-21T22:22:00 - Minor doc updates: linking to article on quantization (transformers)
