@@ -52,3 +52,4 @@
 2016-05-21T18:54:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2016-06-03T06:52:00 - Implementing approach from a new paper read last night (transformers)
 2016-06-03T07:45:00 - Quick fix, referencing a known issue from the official repo (transformers)
+2016-06-03T23:56:00 - Refactor for clarity, might break a few tests though (transformers)
