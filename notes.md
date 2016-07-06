@@ -59,3 +59,4 @@
 2016-06-17T17:30:00 - Implementing approach from a new paper read last night (transformers)
 2016-06-21T22:18:00 - Refactor for clarity, might break a few tests though (transformers)
 2016-07-06T17:28:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
+2016-07-06T21:43:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
