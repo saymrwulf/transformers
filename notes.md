@@ -61,3 +61,4 @@
 2016-07-06T17:28:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2016-07-06T21:43:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
 2016-07-06T17:54:00 - Minor doc updates: linking to article on quantization (transformers)
+2016-07-24T21:50:00 - Refactor for clarity, might break a few tests though (transformers)
