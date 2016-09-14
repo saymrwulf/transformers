@@ -63,3 +63,4 @@
 2016-07-06T17:54:00 - Minor doc updates: linking to article on quantization (transformers)
 2016-07-24T21:50:00 - Refactor for clarity, might break a few tests though (transformers)
 2016-09-15T23:16:00 - Refactor for clarity, might break a few tests though (transformers)
+2016-09-15T01:24:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
