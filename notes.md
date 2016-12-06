@@ -68,3 +68,4 @@
 2016-11-07T00:12:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
 2016-11-09T23:20:00 - Implementing approach from a new paper read last night (transformers)
 2016-12-06T06:25:00 - Implementing approach from a new paper read last night (transformers)
+2016-12-06T20:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
