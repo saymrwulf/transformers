@@ -70,3 +70,4 @@
 2016-12-06T06:25:00 - Implementing approach from a new paper read last night (transformers)
 2016-12-06T20:16:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2016-12-13T01:53:00 - Minor doc updates: linking to article on quantization (transformers)
+2016-12-13T17:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
