@@ -72,3 +72,4 @@
 2016-12-13T01:53:00 - Minor doc updates: linking to article on quantization (transformers)
 2016-12-13T17:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2016-12-13T06:01:00 - Late-night bugfix on financial RL environment (transformers)
+2016-12-25T00:10:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
