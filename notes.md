@@ -73,3 +73,4 @@
 2016-12-13T17:12:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2016-12-13T06:01:00 - Late-night bugfix on financial RL environment (transformers)
 2016-12-25T00:10:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
+2016-12-25T07:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
