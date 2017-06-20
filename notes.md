@@ -77,3 +77,4 @@
 2017-04-18T04:13:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2017-06-20T03:28:00 - Implementing approach from a new paper read last night (transformers)
 2017-06-20T08:22:00 - Late-night bugfix on financial RL environment (transformers)
+2017-06-20T03:02:00 - Quick fix, referencing a known issue from the official repo (transformers)
