@@ -78,3 +78,4 @@
 2017-06-20T03:28:00 - Implementing approach from a new paper read last night (transformers)
 2017-06-20T08:22:00 - Late-night bugfix on financial RL environment (transformers)
 2017-06-20T03:02:00 - Quick fix, referencing a known issue from the official repo (transformers)
+2017-09-03T03:39:00 - Refactor for clarity, might break a few tests though (transformers)
