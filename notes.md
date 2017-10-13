@@ -81,3 +81,4 @@
 2017-09-03T03:39:00 - Refactor for clarity, might break a few tests though (transformers)
 2017-09-26T18:09:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2017-09-26T18:35:00 - Quick fix, referencing a known issue from the official repo (transformers)
+2017-10-13T18:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
