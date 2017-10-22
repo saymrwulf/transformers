@@ -83,3 +83,4 @@
 2017-09-26T18:35:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2017-10-13T18:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2017-10-13T06:58:00 - Refactor for clarity, might break a few tests though (transformers)
+2017-10-22T02:25:00 - Late-night bugfix on financial RL environment (transformers)
