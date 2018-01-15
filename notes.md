@@ -85,3 +85,4 @@
 2017-10-13T06:58:00 - Refactor for clarity, might break a few tests though (transformers)
 2017-10-22T02:25:00 - Late-night bugfix on financial RL environment (transformers)
 2017-10-22T19:39:00 - Minor doc updates: linking to article on quantization (transformers)
+2018-01-15T02:16:00 - Implementing approach from a new paper read last night (transformers)
