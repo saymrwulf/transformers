@@ -91,3 +91,4 @@
 2018-02-07T00:51:00 - Late-night bugfix on financial RL environment (transformers)
 2018-02-07T05:10:00 - Refactor for clarity, might break a few tests though (transformers)
 2018-02-07T00:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
+2018-02-14T07:38:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
