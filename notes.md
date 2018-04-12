@@ -99,3 +99,4 @@
 2018-03-09T08:00:00 - Refactor for clarity, might break a few tests though (transformers)
 2018-03-09T05:04:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2018-04-09T18:14:00 - Refactor for clarity, might break a few tests though (transformers)
+2018-04-12T07:40:00 - Minor doc updates: linking to article on quantization (transformers)
