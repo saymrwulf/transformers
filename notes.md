@@ -104,3 +104,4 @@
 2018-04-12T06:22:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2018-04-16T23:12:00 - Minor doc updates: linking to article on quantization (transformers)
 2018-06-04T03:10:00 - Implementing approach from a new paper read last night (transformers)
+2018-06-04T17:16:00 - Quick fix, referencing a known issue from the official repo (transformers)
