@@ -106,3 +106,4 @@
 2018-06-04T03:10:00 - Implementing approach from a new paper read last night (transformers)
 2018-06-04T17:16:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2018-06-04T03:14:00 - Quick fix, referencing a known issue from the official repo (transformers)
+2018-06-04T22:06:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
