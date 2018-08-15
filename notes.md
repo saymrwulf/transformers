@@ -107,3 +107,4 @@
 2018-06-04T17:16:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2018-06-04T03:14:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2018-06-04T22:06:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
+2018-08-15T08:46:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
