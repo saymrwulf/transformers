@@ -109,3 +109,4 @@
 2018-06-04T22:06:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
 2018-08-15T08:46:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2018-10-10T20:12:00 - Late-night bugfix on financial RL environment (transformers)
+2018-10-10T20:29:00 - Quick fix, referencing a known issue from the official repo (transformers)
