@@ -113,3 +113,4 @@
 2018-10-10T08:53:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2018-10-20T00:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2018-10-20T03:41:00 - Refactor for clarity, might break a few tests though (transformers)
+2018-10-28T20:36:00 - Minor doc updates: linking to article on quantization (transformers)
