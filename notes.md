@@ -118,3 +118,4 @@
 2019-04-27T06:33:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2019-04-27T01:07:00 - Minor doc updates: linking to article on quantization (transformers)
 2019-04-27T21:11:00 - Quick fix, referencing a known issue from the official repo (transformers)
+2019-04-27T03:14:00 - Refactor for clarity, might break a few tests though (transformers)
