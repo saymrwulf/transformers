@@ -123,3 +123,4 @@
 2019-06-27T04:59:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2019-06-27T19:47:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2019-08-03T21:15:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
+2019-09-03T05:35:00 - Quick fix, referencing a known issue from the official repo (transformers)
