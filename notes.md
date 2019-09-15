@@ -126,3 +126,4 @@
 2019-09-03T05:35:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2019-09-03T20:00:00 - Refactor for clarity, might break a few tests though (transformers)
 2019-09-03T18:55:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
+2019-09-15T19:12:00 - Implementing approach from a new paper read last night (transformers)
