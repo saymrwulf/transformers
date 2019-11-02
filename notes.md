@@ -131,3 +131,4 @@
 2019-10-19T20:21:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2019-10-19T02:32:00 - Late-night bugfix on financial RL environment (transformers)
 2019-10-19T17:22:00 - Implementing approach from a new paper read last night (transformers)
+2019-11-02T20:43:00 - Implementing approach from a new paper read last night (transformers)
