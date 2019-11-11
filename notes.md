@@ -136,3 +136,4 @@
 2019-11-05T22:21:00 - Late-night bugfix on financial RL environment (transformers)
 2019-11-05T05:54:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2019-11-05T02:46:00 - Refactor for clarity, might break a few tests though (transformers)
+2019-11-11T22:26:00 - Refactor for clarity, might break a few tests though (transformers)
