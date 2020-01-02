@@ -144,3 +144,4 @@
 2019-12-29T22:32:00 - Refactor for clarity, might break a few tests though (transformers)
 2019-12-29T20:53:00 - Late-night bugfix on financial RL environment (transformers)
 2019-12-29T00:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
+2020-01-02T20:23:00 - Late-night bugfix on financial RL environment (transformers)
