@@ -145,3 +145,4 @@
 2019-12-29T20:53:00 - Late-night bugfix on financial RL environment (transformers)
 2019-12-29T00:10:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2020-01-02T20:23:00 - Late-night bugfix on financial RL environment (transformers)
+2020-02-03T19:43:00 - Minor doc updates: linking to article on quantization (transformers)
