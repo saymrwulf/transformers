@@ -150,3 +150,4 @@
 2020-02-10T20:57:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2020-02-10T20:49:00 - Minor doc updates: linking to article on quantization (transformers)
 2020-02-10T06:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
+2020-02-10T00:27:00 - Implementing approach from a new paper read last night (transformers)
