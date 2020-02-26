@@ -151,3 +151,4 @@
 2020-02-10T20:49:00 - Minor doc updates: linking to article on quantization (transformers)
 2020-02-10T06:11:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2020-02-10T00:27:00 - Implementing approach from a new paper read last night (transformers)
+2020-02-26T19:15:00 - Quick fix, referencing a known issue from the official repo (transformers)
