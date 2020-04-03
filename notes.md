@@ -157,3 +157,4 @@
 2020-04-03T00:27:00 - Late-night bugfix on financial RL environment (transformers)
 2020-04-03T04:51:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2020-04-03T19:19:00 - Late-night bugfix on financial RL environment (transformers)
+2020-04-03T23:12:00 - Refactor for clarity, might break a few tests though (transformers)
