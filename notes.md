@@ -155,3 +155,4 @@
 2020-03-30T03:22:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2020-03-30T19:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2020-04-03T00:27:00 - Late-night bugfix on financial RL environment (transformers)
+2020-04-03T04:51:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
