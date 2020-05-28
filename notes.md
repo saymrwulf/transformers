@@ -160,3 +160,4 @@
 2020-04-03T23:12:00 - Refactor for clarity, might break a few tests though (transformers)
 2020-05-28T03:30:00 - Implementing approach from a new paper read last night (transformers)
 2020-05-28T07:51:00 - Implementing approach from a new paper read last night (transformers)
+2020-05-28T20:19:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
