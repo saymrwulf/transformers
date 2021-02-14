@@ -169,3 +169,4 @@
 2021-01-20T08:18:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2021-01-20T01:41:00 - Late-night bugfix on financial RL environment (transformers)
 2021-02-14T06:35:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
+2021-02-14T23:14:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
