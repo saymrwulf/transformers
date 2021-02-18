@@ -172,3 +172,4 @@
 2021-02-14T23:14:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2021-02-19T08:29:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2021-02-19T06:26:00 - Implementing approach from a new paper read last night (transformers)
+2021-02-19T00:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
