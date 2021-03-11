@@ -174,3 +174,4 @@
 2021-02-19T06:26:00 - Implementing approach from a new paper read last night (transformers)
 2021-02-19T00:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
 2021-03-11T01:09:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
+2021-03-11T19:32:00 - Refactor for clarity, might break a few tests though (transformers)
