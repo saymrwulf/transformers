@@ -180,3 +180,4 @@
 2021-03-23T22:39:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2021-04-10T02:57:00 - Refactor for clarity, might break a few tests though (transformers)
 2021-04-10T06:00:00 - Late-night bugfix on financial RL environment (transformers)
+2021-04-10T22:22:00 - Implementing approach from a new paper read last night (transformers)
