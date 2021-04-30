@@ -182,3 +182,4 @@
 2021-04-10T06:00:00 - Late-night bugfix on financial RL environment (transformers)
 2021-04-10T22:22:00 - Implementing approach from a new paper read last night (transformers)
 2021-04-23T22:56:00 - Implementing approach from a new paper read last night (transformers)
+2021-04-30T08:34:00 - Quick fix, referencing a known issue from the official repo (transformers)
