@@ -185,3 +185,4 @@
 2021-04-30T08:34:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2021-06-06T06:32:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2021-06-06T06:37:00 - Refactor for clarity, might break a few tests though (transformers)
+2021-06-06T05:09:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
