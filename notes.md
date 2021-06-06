@@ -184,3 +184,4 @@
 2021-04-23T22:56:00 - Implementing approach from a new paper read last night (transformers)
 2021-04-30T08:34:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2021-06-06T06:32:00 - Quick fix, referencing a known issue from the official repo (transformers)
+2021-06-06T06:37:00 - Refactor for clarity, might break a few tests though (transformers)
