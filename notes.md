@@ -189,3 +189,4 @@
 2021-07-29T22:07:00 - Refactor for clarity, might break a few tests though (transformers)
 2021-08-22T19:52:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2021-08-22T04:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
+2021-08-22T18:10:00 - Minor doc updates: linking to article on quantization (transformers)
