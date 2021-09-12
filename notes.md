@@ -191,3 +191,4 @@
 2021-08-22T04:02:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2021-08-22T18:10:00 - Minor doc updates: linking to article on quantization (transformers)
 2021-08-22T07:59:00 - Refactor for clarity, might break a few tests though (transformers)
+2021-09-13T00:39:00 - Refactor for clarity, might break a few tests though (transformers)
