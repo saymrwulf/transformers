@@ -194,3 +194,4 @@
 2021-09-13T00:39:00 - Refactor for clarity, might break a few tests though (transformers)
 2021-09-13T07:02:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2021-09-13T20:19:00 - Quick fix, referencing a known issue from the official repo (transformers)
+2021-09-13T07:07:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
