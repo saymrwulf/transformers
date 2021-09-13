@@ -192,3 +192,4 @@
 2021-08-22T18:10:00 - Minor doc updates: linking to article on quantization (transformers)
 2021-08-22T07:59:00 - Refactor for clarity, might break a few tests though (transformers)
 2021-09-13T00:39:00 - Refactor for clarity, might break a few tests though (transformers)
+2021-09-13T07:02:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
