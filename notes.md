@@ -203,3 +203,4 @@
 2021-12-22T04:24:00 - Late-night bugfix on financial RL environment (transformers)
 2021-12-22T23:03:00 - Refactor for clarity, might break a few tests though (transformers)
 2022-01-09T17:57:00 - Quick fix, referencing a known issue from the official repo (transformers)
+2022-01-09T17:07:00 - Quick fix, referencing a known issue from the official repo (transformers)
