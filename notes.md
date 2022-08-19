@@ -223,3 +223,4 @@
 2022-07-27T00:20:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2022-08-19T07:57:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2022-08-19T01:24:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
+2022-08-19T21:50:00 - Minor doc updates: linking to article on quantization (transformers)
