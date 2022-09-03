@@ -228,3 +228,4 @@
 2022-09-03T23:29:00 - Minor doc updates: linking to article on quantization (transformers)
 2022-09-03T22:24:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2022-09-03T02:58:00 - Implementing approach from a new paper read last night (transformers)
+2022-09-03T05:43:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
