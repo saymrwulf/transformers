@@ -238,3 +238,4 @@
 2022-09-20T03:01:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
 2022-09-22T01:32:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2022-09-22T18:32:00 - Minor doc updates: linking to article on quantization (transformers)
+2022-09-22T01:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
