@@ -239,3 +239,4 @@
 2022-09-22T01:32:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2022-09-22T18:32:00 - Minor doc updates: linking to article on quantization (transformers)
 2022-09-22T01:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
+2022-10-12T04:42:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
