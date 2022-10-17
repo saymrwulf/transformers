@@ -241,3 +241,4 @@
 2022-09-22T01:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2022-10-12T04:42:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2022-10-12T18:46:00 - Minor doc updates: linking to article on quantization (transformers)
+2022-10-17T21:23:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
