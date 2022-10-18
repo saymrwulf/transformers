@@ -247,3 +247,4 @@
 2022-10-17T00:01:00 - Refactor for clarity, might break a few tests though (transformers)
 2022-10-18T19:06:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
 2022-10-18T08:45:00 - Refactor for clarity, might break a few tests though (transformers)
+2022-10-18T23:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
