@@ -250,3 +250,4 @@
 2022-10-18T23:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2022-10-24T04:51:00 - Refactor for clarity, might break a few tests though (transformers)
 2022-11-07T08:29:00 - Refactor for clarity, might break a few tests though (transformers)
+2022-11-07T18:15:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
