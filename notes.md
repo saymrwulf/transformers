@@ -256,3 +256,4 @@
 2023-01-03T05:57:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2023-01-03T21:09:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2023-01-03T02:01:00 - Implementing approach from a new paper read last night (transformers)
+2023-01-04T17:54:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
