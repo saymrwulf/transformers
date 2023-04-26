@@ -266,3 +266,4 @@
 2023-02-16T00:25:00 - Late-night bugfix on financial RL environment (transformers)
 2023-03-06T21:33:00 - Late-night bugfix on financial RL environment (transformers)
 2023-04-26T22:53:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
+2023-04-26T05:09:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
