@@ -275,3 +275,4 @@
 2023-06-16T20:07:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2023-06-16T08:26:00 - Late-night bugfix on financial RL environment (transformers)
 2023-06-16T03:22:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
+2023-08-16T07:12:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
