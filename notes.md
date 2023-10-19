@@ -280,3 +280,4 @@
 2023-09-08T08:03:00 - Late-night bugfix on financial RL environment (transformers)
 2023-09-08T18:51:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
 2023-10-19T02:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (transformers)
+2023-10-19T17:43:00 - Refactor for clarity, might break a few tests though (transformers)
