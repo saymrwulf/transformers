@@ -284,3 +284,4 @@
 2023-12-01T05:03:00 - Implementing approach from a new paper read last night (transformers)
 2023-12-23T01:08:00 - Late-night bugfix on financial RL environment (transformers)
 2023-12-23T08:24:00 - Implementing approach from a new paper read last night (transformers)
+2023-12-23T05:19:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
