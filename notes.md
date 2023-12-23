@@ -283,3 +283,4 @@
 2023-10-19T17:43:00 - Refactor for clarity, might break a few tests though (transformers)
 2023-12-01T05:03:00 - Implementing approach from a new paper read last night (transformers)
 2023-12-23T01:08:00 - Late-night bugfix on financial RL environment (transformers)
+2023-12-23T08:24:00 - Implementing approach from a new paper read last night (transformers)
