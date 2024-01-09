@@ -290,3 +290,4 @@
 2023-12-28T00:12:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2024-01-09T19:27:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2024-01-09T03:55:00 - Late-night bugfix on financial RL environment (transformers)
+2024-01-09T03:04:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
