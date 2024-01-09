@@ -288,3 +288,4 @@
 2023-12-27T20:42:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2023-12-27T05:18:00 - Implementing approach from a new paper read last night (transformers)
 2023-12-28T00:12:00 - Quick fix, referencing a known issue from the official repo (transformers)
+2024-01-09T19:27:00 - Quick fix, referencing a known issue from the official repo (transformers)
