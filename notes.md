@@ -300,3 +300,4 @@
 2024-01-19T08:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2024-01-19T07:18:00 - Late-night bugfix on financial RL environment (transformers)
 2024-02-04T08:03:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
+2024-02-04T04:16:00 - Refactor for clarity, might break a few tests though (transformers)
