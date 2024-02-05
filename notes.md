@@ -291,3 +291,4 @@
 2024-01-09T19:27:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2024-01-09T03:55:00 - Late-night bugfix on financial RL environment (transformers)
 2024-01-09T03:04:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
+2024-02-05T06:11:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
