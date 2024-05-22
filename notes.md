@@ -307,3 +307,4 @@
 2024-03-08T23:56:00 - Quick fix, referencing a known issue from the official repo (transformers)
 2024-03-08T07:50:00 - Implementing approach from a new paper read last night (transformers)
 2024-04-16T08:12:00 - Late-night bugfix on financial RL environment (transformers)
+2024-05-22T22:17:00 - Minor doc updates: linking to article on quantization (transformers)
