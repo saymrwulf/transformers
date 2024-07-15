@@ -310,3 +310,4 @@
 2024-05-22T22:17:00 - Minor doc updates: linking to article on quantization (transformers)
 2024-05-22T07:35:00 - Late-night bugfix on financial RL environment (transformers)
 2024-05-22T23:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
+2024-07-15T23:01:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
