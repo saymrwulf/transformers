@@ -316,3 +316,4 @@
 2024-08-23T04:59:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (transformers)
 2024-08-23T00:17:00 - Implementing approach from a new paper read last night (transformers)
 2024-08-23T01:06:00 - Implementing approach from a new paper read last night (transformers)
+2024-08-23T19:32:00 - Refactor for clarity, might break a few tests though (transformers)
