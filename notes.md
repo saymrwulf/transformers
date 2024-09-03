@@ -317,3 +317,4 @@
 2024-08-23T00:17:00 - Implementing approach from a new paper read last night (transformers)
 2024-08-23T01:06:00 - Implementing approach from a new paper read last night (transformers)
 2024-08-23T19:32:00 - Refactor for clarity, might break a few tests though (transformers)
+2024-09-03T18:43:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
