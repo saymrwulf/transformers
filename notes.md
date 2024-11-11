@@ -327,3 +327,4 @@
 2024-11-11T00:30:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (transformers)
 2024-11-11T02:31:00 - Late-night bugfix on financial RL environment (transformers)
 2024-11-11T04:45:00 - Late-night bugfix on financial RL environment (transformers)
+2024-11-11T23:00:00 - Quick fix, referencing a known issue from the official repo (transformers)
